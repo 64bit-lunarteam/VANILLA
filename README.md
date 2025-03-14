@@ -1,5 +1,5 @@
 # VANILLA
-Open Source Linux Terminal Emulator, primarily programmed by Soupcan7 and Venom.
+Open Source Linux Terminal Emulator, primarily programmed by Certifiedfish101 and Venom.
 
 # FEATURES
 VANILLA currently only offers support for Ubuntu, however in the future we are planning to add Kali, ParrotOS, and more!
